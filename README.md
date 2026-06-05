@@ -1,4 +1,4 @@
-Decoding Customer Value: A Data Driven Retention Strategy
+# Decoding Customer Value: A Data Driven Retention Strategy
 
 ## Overview
 This project analyzes customer purchasing behavior, loyalty patterns, promotional dependency, and revenue trends using Python, SQL, and Power BI.
